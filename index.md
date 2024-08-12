@@ -1,7 +1,7 @@
 ---
 title: "An example report "
 subtitle: "Exploring how to report out from community calls"
-date: "`r Sys.Date()`"
+date: "August 13, 2024"
 format:
     pdf: default
     html: 

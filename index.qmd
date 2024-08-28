@@ -58,5 +58,5 @@ and generating the final document. Participants in the calls, and open comment p
 given co-authorship in alphabetical order by last name._  
   
 
-![](https://chanzuckerberg.com/wp-content/themes/czi/img/logo.svg)
-![](https://astropy-report.orgmycology.com/short_logo.png)
+[![CZI's Essential Open Source Software for Science](https://chanzuckerberg.github.io/open-science/badges/CZI-EOSS.svg)](https://czi.co/EOSS)
+[![](https://astropy-report.orgmycology.com/short_logo.png)](https://orgmycology.com)

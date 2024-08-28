@@ -1,7 +1,7 @@
 ---
 title: "An example report "
 subtitle: "Exploring how to report out from community calls"
-authors: Organizational Mycology 
+authors: ["Author Number One", "Author Number Two"]
 date: "August 13, 2024"
 format:
     html: 
@@ -49,3 +49,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla placerat pretium 
 | Bangladesh        | 166,300,000     |
 | Russia            | 146,700,000     |
 | Mexico            | 126,000,000     |
+
+<!-- FOOTER & LOGOS Please do not modify below --> 
+----
+_This resource was generated as part of [CZI's EOSS](https://chanzuckerberg.com/eoss/) Community Calls during late 2024 with 
+[Organizational Mycology](https://orgmycology.com) facilitating discussions, gathering input, 
+and generating the final document. Participants in the calls, and open comment periods are 
+given co-authorship in alphabetical order by last name._  
+  
+
+![](https://chanzuckerberg.com/wp-content/themes/czi/img/logo.svg)
+![](https://astropy-report.orgmycology.com/short_logo.png)
